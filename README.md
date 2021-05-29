@@ -7,3 +7,6 @@ null should be returned. For simplicity, we assume that the code does not contai
 Example: cutCommt('let foo; // bar') should return 'bar'.
 
 [Solution](https://github.com/roshan-pnq/JSHERO_SOLUTIONS/blob/master/cutComments.js)
+
+Possible exercise for future: Write a js script to remove all the comments from a file. It doesn't matter whether it is html,css or js comment.
+Hint: You can solve this with regex. Great exercise for beginner.
