@@ -22,3 +22,9 @@ Write a function max that calculates the maximum of an arbitrary number of numbe
 Example: max(1, 2) should return 2 and max(2, 3, 1) should return 3.
 
 [Solutions](https://github.com/roshan-pnq/JSHERO_SOLUTIONS/blob/master/maximum_of_arbitary_number_of_numbers.js)
+
+Problem Statement:
+Write a function add that takes a string with a summation task and returns its result as a number. A finite number of natural numbers should be added. The summation task is a string of the form '1+19+...+281'.
+Example: add('7+12+100') should return 119.
+
+[Solution](https://github.com/roshan-pnq/JSHERO_SOLUTIONS/blob/master/summation.js)
