@@ -28,3 +28,9 @@ Write a function add that takes a string with a summation task and returns its r
 Example: add('7+12+100') should return 119.
 
 [Solution](https://github.com/roshan-pnq/JSHERO_SOLUTIONS/blob/master/summation.js)
+
+Problem Statement:
+Write a function reverse that reverses the order of the characters in a string.
+Example: reverse('live') should return 'evil'
+
+[Solution](https://github.com/roshan-pnq/JSHERO_SOLUTIONS/blob/master/reverse_the_string.js)
