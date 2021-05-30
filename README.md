@@ -16,3 +16,9 @@ Write a function lcm that takes two natural numbers and calculates their least c
 Example: lcm(4, 6) should return 12
 
 [Solution](https://github.com/roshan-pnq/JSHERO_SOLUTIONS/blob/master/lcm_of_two_numbers.js)
+
+Problem Statement:
+Write a function max that calculates the maximum of an arbitrary number of numbers.
+Example: max(1, 2) should return 2 and max(2, 3, 1) should return 3.
+
+[Solutions](https://github.com/roshan-pnq/JSHERO_SOLUTIONS/blob/master/maximum_of_arbitary_number_of_numbers.js)
