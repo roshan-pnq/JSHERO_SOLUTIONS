@@ -41,3 +41,10 @@ Write a function sumMultiples taking a natural number n and returning the sum of
 Example: All multiples of 3 and 5 less than 20 are 3, 5, 6, 9, 10, 12, 15 and 18. Their sum is 78. sumMultiples(20) should return 78.
 
 [Solution](https://github.com/roshan-pnq/JSHERO_SOLUTIONS/blob/master/sumMultiples.js)
+
+Probem Statement:
+Write a function digitsum that calculates the digit sum of an integer. The digit sum of an integer is the sum of all its digits.
+
+Example: digitsum(192) should return 12.
+
+[Solution]((https://github.com/roshan-pnq/JSHERO_SOLUTIONS/blob/master/digitSum.js)
